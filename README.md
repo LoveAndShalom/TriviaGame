@@ -1,1 +1,2 @@
 # TriviaGame
+Another Adventure Time Game, but this time the citizens of Ooo are asleep. This is a trivia game using JavaScript for the logic and jQuery to manipulate HTML. This app showcases JavaScript timing events such as setTimeout() and how we can dynamically create HTML with jQuery.

@@ -1,0 +1,30 @@
+
+body {
+    background-image: url("https://i.pinimg.com/originals/b8/23/aa/b823aa628853769d995248c45db8db82.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    
+}
+
+.container {
+	text-align: center;
+	color: #FF642A;
+	font-family: 'Montserrat', sans-serif;
+	text-shadow: 1px 1px 1px #000; 
+
+}
+
+
+p {
+	padding-top: 50px;
+	font-size: 80px;
+	color: white;
+}
+button {
+	text-shadow: 3px 3px 3px #000; 
+}
+.spacing {
+	margin: 25px 100px 0px 100px;
+}
